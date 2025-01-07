@@ -1,0 +1,11 @@
+This project uses the following open source packages:
+
+    - React (MIT License)
+    - Tailwind CSS (MIT License)
+    - Tesseract.js (Apache License 2.0)
+    - PDF.js (Apache License 2.0)
+    - Stripe (Terms of Service)
+    - Express (MIT License)
+    - Better-sqlite3 (MIT License)
+
+    See each package's LICENSE file for more information.
