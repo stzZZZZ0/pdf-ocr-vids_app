@@ -1,4 +1,5 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import React from 'react'
+    import { BrowserRouter, Routes, Route } from 'react-router-dom'
     import { AuthProvider } from './components/AuthProvider'
     import ProtectedRoute from './components/ProtectedRoute'
     import HomePage from './pages/HomePage'

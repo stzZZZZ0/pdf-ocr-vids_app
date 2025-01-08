@@ -1,10 +1,4 @@
-/**
-     * © 2023 [Votre nom ou société]. Tous droits réservés.
-     * Ce fichier fait partie du projet PDF OCR & Video Summary App.
-     * Licence : MIT
-     */
-
-    import { createContext, useContext, useState, useEffect } from 'react'
+import React, { createContext, useContext, useState, useEffect } from 'react'
     import axios from 'axios'
     import { useNavigate } from 'react-router-dom'
 
